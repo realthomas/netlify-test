@@ -2,16 +2,17 @@
   "title": "my new treatment overview",
   "at-a-glance": "BAM",
   "concerns": [
-    "1"
+    "1",
+    null
   ],
   "text-sections": [
     {
-      "title": "second text section",
-      "body": "Hi ho, here's some more"
-    },
-    {
       "title": "first text section",
       "body": "body of first text section"
+    },
+    {
+      "title": "hellooooooooooo",
+      "body": "is it me you're looking for?"
     }
   ]
 }
